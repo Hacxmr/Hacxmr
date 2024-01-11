@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacxmr&show_icons=true&locale=en" alt="hacxmr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacxmr&" alt="hacxmr" /></p>
+
 
 [![Hacxmr's GitHub | Stats](https://stats.quine.sh/Hacxmr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hacxmr)
 
