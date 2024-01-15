@@ -1,4 +1,3 @@
-<a href="https://imagetolink.com/ib/HjG4l5SlFJ"><img src="https://imagetolink.com/ib/HjG4l5SlFJ.png" alt="HjG4l5SlFJ"  style="width:100%;" /></a>
 <h1 align="center">Hi 👋, I'm Mitali Raj</h1>
 <h3 align="center">As a frontend developer, I leverage my expertise in HTML, CSS, and JavaScript to create captivating user interfaces. Proficient in frameworks like React.js, I enhance interactivity and user experience. With a flair for design, I employ Tailwind CSS and Bootstrap for efficient styling. Passionate about AI/ML, I strive to integrate innovative technologies into the frontend landscape, pushing boundaries for a dynamic and intelligent digital world. </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
