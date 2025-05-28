@@ -89,9 +89,3 @@
 
 
 
-[![Hacxmr's GitHub | Stats](https://stats.quira.sh/Hacxmr/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Hacxmr)
-
-[![Hacxmr's GitHub | Dependencies](https://stats.quira.sh/Hacxmr/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Hacxmr)
-
-
-[![Hacxmr's GitHub | Languages Over Time](https://stats.quine.sh/Hacxmr/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hacxmr)
